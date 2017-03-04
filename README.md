@@ -9,7 +9,8 @@ In this project, we work towards constructing an optimized Q-Learning driving ag
 
 Note that, template code for the Smartcab's environment and other agents (cars) in the environment was already provided. Our job is to implement a learning algorithm so that the Smartcab behaves properly, following the rules and regulations, while moving towards its destination.
 
-### [Analysis Notebook](): Please visit this notebook to check out an analysis of the project at various stages, and to understand the project better.
+### [Analysis Notebook](https://github.com/sajal2692/Training-a-Smartcab-to-Drive/blob/master/smartcab.ipynb) 
+Please visit this notebook to check out a step-by-step analysis of the project at various stages, and to understand the project better.
 
 
 
